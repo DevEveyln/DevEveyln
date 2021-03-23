@@ -15,10 +15,10 @@ const me = {
 ```
 <!--
 
-- 🌱 I'm currently learning Java
-- 😄 Pronouns: she/her
-- ⚡ Fun Fact: I have a child
-- 💖 Taken: true
+#- 🌱 I'm currently learning Java
+#- 😄 Pronouns: she/her
+#- ⚡ Fun Fact: I have a child
+#- 💖 Taken: true
 
 -->
 ### Some Stats
