@@ -10,7 +10,9 @@ const me = {
   'Name': 'Eveyln',
   'Age': '19',
   'Discord': 'Eveyln#8736'
-  'Pronouns': 'she/her'
+  'Pronouns': 'she/her',
+  'Fun Fact': 'I have a son',
+  'Taken?': 'I am!'
 }
 ```
 <!--
@@ -18,7 +20,7 @@ const me = {
 #- 🌱 I'm currently learning Java
 #- 😄 Pronouns: she/her
 #- ⚡ Fun Fact: I have a child
-#- 💖 Taken: true
+#- 💖 Taken: I am!
 
 -->
 ### Some Stats
