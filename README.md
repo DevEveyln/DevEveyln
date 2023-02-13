@@ -12,7 +12,7 @@ About Me
 ```js
 const me = {
   'Name': 'Eveyln',
-  'Age': '19',
+  'Age': '21',
   'Discord': 'Eveyln#8736'
   'Pronouns': 'she/her',
   'Fun Fact': 'I have a son',
