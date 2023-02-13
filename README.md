@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/800404921807667250/823986659468378152/jam.jpg" alt="Avatar">
+  <img height="200" src="https://cdn.discordapp.com/avatars/749742154477207605/973d00fdc7b7d0b6e40c0f73fe9fc3f9.webp?size=100" alt="Avatar">
 </div>
 
 ![](https://komarev.com/ghpvc/?username=DevEveyln&color=blue)
